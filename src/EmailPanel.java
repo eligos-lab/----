@@ -311,7 +311,7 @@ public class EmailPanel extends JPanel {
 
                     String originalText = copyEmailButton.getText();
 
-                    copyEmailButton.setText("✓ Скопировано!");
+                    copyEmailButton.setText("Скопировано!");
                     copyEmailButton.setBackground(new Color(24, 129, 20));
                     copyEmailButton.repaint();
 
