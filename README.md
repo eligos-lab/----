@@ -8,6 +8,7 @@ run_windows.bat
 
 ### Mac/Linux:
 chmod +x run_linux_mac.sh
+
 ./run.sh
 
 ## 🛠️ Требования
