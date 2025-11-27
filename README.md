@@ -4,10 +4,10 @@
 ## 🚀 Быстрый запуск
 
 ### Windows:
-run.bat
+run_windows.bat
 
 ### Mac/Linux:
-chmod +x run.sh
+chmod +x run_linux_mac.sh
 ./run.sh
 
 ## 🛠️ Требования
