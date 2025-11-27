@@ -24,6 +24,7 @@ chmod +x run_linux_mac.sh
 
 ## 🏗️ Сборка из исходного кода
 mvn clean package
+
 java -jar target/temp-email-service-1.0.0.jar
 
 ## 🔧 Поддерживаемые сервисы
